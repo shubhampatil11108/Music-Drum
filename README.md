@@ -13,23 +13,4 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
 
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Start Using The DRUM
-
-<h3>ScreenShots</h3>
-<br>
-
-![demo-dark](./images/drumkit(dark).PNG)
-
-![demo-light](./images/drumkit(light).PNG)
